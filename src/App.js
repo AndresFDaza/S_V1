@@ -4,7 +4,7 @@ import Screen from './components/Screen'
 function App() {
   return (
     <div>
-      <h1>thanks 2020</h1>
+      <h1>Welcome 2021</h1>
     </div>
   );
 }
